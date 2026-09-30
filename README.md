@@ -59,7 +59,7 @@ A real-time Data Acquisition (DAQ) and visualization environment engineered for 
 
 ### Option 1: Standalone Portable Binary (Recommended for Lab Workstations)
 
-1. Download the latest `Suspension_DAQ.exe` from the **Releases** tab.
+1. Download the latest `Suspension_DAQ.exe` from the **Releases** tab. (https://github.com/BajkoKitti/Wheel-stand/releases)
 2. Connect the DAQ box via USB.
 3. Launch `Suspension_DAQ.exe` (no Python or package installation required).
 4. Select the corresponding serial COM port (or choose `Simulation Mode (Virtual)`) and click **Connect**.
