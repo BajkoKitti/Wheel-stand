@@ -96,7 +96,6 @@ python wheel_stand.py
 │   └── requirements.txt           # Python dependency specifications
 ├── docs/
 │   ├── Documentation.docx         # Technical documentation & user manual
-│   └── wiring_schematic.png       # Hardware interconnect schematic
 └── README.md
 ```
 
